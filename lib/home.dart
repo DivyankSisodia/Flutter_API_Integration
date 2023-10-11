@@ -38,6 +38,7 @@ class _HomeViewState extends State<HomeView> {
           }),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
+          
           fetchUser();
         },
         child: const Icon(Icons.deblur),

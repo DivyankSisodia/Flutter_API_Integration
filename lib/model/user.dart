@@ -14,4 +14,5 @@ class User {
     required this.phone,
     required this.nat,
   });
+  
 }
